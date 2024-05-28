@@ -10,6 +10,8 @@
 
 ## Directory Structure
 
+[TO DO]
+
 ## Getting Started
 
 ### Prerequisites
@@ -22,7 +24,7 @@
 
 Clone the repository:
    ```
-   git clone https://github.com/AFLucas-UOM/ARI2129-Group-Project-Part-B.get
+   git clone https://github.com/AFLucas-UOM/ARI2129-Group-Project-Part-B.git
    ```
 
 ## Acknowledgments
