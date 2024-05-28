@@ -31,42 +31,44 @@ Data augmentation is an important technique in the field of machine learning, es
 
 ## Directory Structure
 
-Question 3/
-├── 0. COTS_Img/
-├── 1. TensorFlow/
-│   ├── Q3-a.ipynb
-│   ├── Q3-a.pdf
-├── 2. PyTorch/
-│   ├── Q3-b.ipynb
-│   ├── Q3-b.pdf
-├── 3. Results/
-│   ├── PyTorch/
-│   │   ├── 0. Metrics/
-│   │   ├── boots_colour/
-│   │   ├── digital_natives_book_colour/
-│   │   ├── dslr_colour/
-│   │   ├── headphones_colour/
-│   │   ├── volcano_colour/
-│   ├── TensorFlow/
-│       ├── 0. Metrics/
-│       ├── boots_colour/
-│       ├── digital_natives_book_colour/
-│       ├── dslr_colour/
-│       ├── headphones_colour/
-│       ├── volcano_colour/
+| **Directory**                               | **Contents**                                           |
+|---------------------------------------------|--------------------------------------------------------|
+| **Question 3/**                             |                                                        |
+| ├── 0. COTS_Img/                            | Contains COTS images                                   |
+| ├── 1. TensorFlow/                          |                                                        |
+| │   ├── Q3-a.ipynb                          | Jupyter Notebook for TensorFlow                        |
+| │   ├── Q3-a.pdf                            | PDF of the TensorFlow notebook                         |
+| ├── 2. PyTorch/                             |                                                        |
+| │   ├── Q3-b.ipynb                          | Jupyter Notebook for PyTorch                           |
+| │   ├── Q3-b.pdf                            | PDF of the PyTorch notebook                            |
+| ├── 3. Results/                             |                                                        |
+| │   ├── PyTorch/                            | Results for PyTorch                                    |
+| │   │   ├── 0. Metrics/                     | Metrics for PyTorch results                            |
+| │   │   ├── boots_colour/                   | Augmented images for boots                             |
+| │   │   ├── digital_natives_book_colour/    | Augmented images for digital natives book              |
+| │   │   ├── dslr_colour/                    | Augmented images for DSLR                              |
+| │   │   ├── headphones_colour/              | Augmented images for headphones                        |
+| │   │   ├── volcano_colour/                 | Augmented images for volcano                           |
+| │   ├── TensorFlow/                         | Results for TensorFlow                                 |
+| │       ├── 0. Metrics/                     | Metrics for TensorFlow results                         |
+| │       ├── boots_colour/                   | Augmented images for boots                             |
+| │       ├── digital_natives_book_colour/    | Augmented images for digital natives book              |
+| │       ├── dslr_colour/                    | Augmented images for DSLR                              |
+| │       ├── headphones_colour/              | Augmented images for headphones                        |
+| │       ├── volcano_colour/                 | Augmented images for volcano                           |
+| **Question 4/**                             |                                                        |
+| ├── 0. COTS_Img/                            | Contains COTS images                                   |
+| ├── 1. JupyterNotebook & PDF/               |                                                        |
+| │   ├── Q4.ipynb                            | Jupyter Notebook for OpenCV                            |
+| │   ├── Q4.pdf                              | PDF of the OpenCV notebook                             |
+| ├── 2. Results/                             |                                                        |
+| │   ├── Brightness/                         | Augmented images with brightness adjustment            |
+| │   ├── Contrast/                           | Augmented images with contrast adjustment              |
+| │   ├── Rotation/                           | Augmented images with rotation                         |
+| │   ├── Saturation/                         | Augmented images with saturation adjustment            |
+| │   ├── Shearing/                           | Augmented images with shearing                         |
+| │   ├── Translation/                        | Augmented images with translation                      |
 
-Question 4/
-├── 0. COTS_Img/
-├── 1. JupyterNotebook & PDF/
-│   ├── Q4.ipynb
-│   ├── Q4.pdf
-├── 2. Results/
-│   ├── Brightness/
-│   ├── Contrast/
-│   ├── Rotation/
-│   ├── Saturation/
-│   ├── Shearing/
-│   ├── Translation/
 
 ## Getting Started
 
