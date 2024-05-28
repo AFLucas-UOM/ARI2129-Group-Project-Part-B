@@ -5,7 +5,7 @@ This project focuses on the use of data augmentation techniques with popular mac
 ## Introduction
 
 ### Question 3: Data Augmentation in Mainstream Machine Learning Frameworks
-In Question 3, we look at how data augmentation is implemented with two popular machine learning (ML) frameworks: TensorFlow and PyTorch. The ImageDataGenerator class in TensorFlow allows for the application of a variety of image transformations. Similarly, PyTorch includes the transforms module, which enables advanced image manipulation techniques. By applying these tools to the COTS dataset, we show how effective each framework is at generating augmented data. The task entails creating Jupyter Notebooks for both frameworks, and producing multiple augmented images per input. The results are then saved and analyzed using comparative metrics to determine the differences with the original images.
+In Question 3, we look at how data augmentation is implemented with two popular machine learning (ML) frameworks: TensorFlow and PyTorch. The ImageDataGenerator class in TensorFlow allows for the application of a variety of image transformations. Similarly, PyTorch includes the transforms module, which enables advanced image manipulation techniques. By applying these tools to the COTS (Common Objects of a Traveling Scientist) dataset, we show how effective each framework is at generating augmented data. The task entails creating Jupyter Notebooks for both frameworks, and producing multiple augmented images per input. The results are then saved and analyzed using comparative metrics to determine the differences with the original images.
 
 ### Question 4: Implementing Data Augmentation Techniques Using OpenCV
 In Question 4, we look at how to implement data augmentation techniques with OpenCV. Unlike TensorFlow and PyTorch, OpenCV requires a more manual approach to transformations. This question addresses both photometric and geometric distortions, including brightness variation, contrast adjustment, rotation, saturation, shearing and translation. We use these techniques on the same subset of the COTS dataset as in Question 3, resulting in multiple augmented images per input. The goal is to compare OpenCV results to TensorFlow and PyTorch results, which will provide insights into the practical application and effectiveness of custom augmentation implementations.
@@ -54,7 +54,7 @@ Clone the repository:
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [PyTorch Documentation](https://pytorch.org/)
 - [OpenCV Documentation](https://opencv.org/)
-- [COTS Dataset Paper](https://github.com/dylanseychell/COTSDataset/)
+- [COTS Dataset](https://github.com/dylanseychell/COTSDataset/)
 
 ## Acknowledgments
 
