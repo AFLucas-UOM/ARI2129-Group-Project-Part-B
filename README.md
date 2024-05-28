@@ -62,9 +62,9 @@ This project was developed as part of an academic assignment. Unit: `ARI2129` at
 
 ## Distribution of Work
 
-- TensorFlow implementation (question 3-a): [Andrea Filiberto Lucas](mailto:andrea.f.lucas.22@um.edu.mt)]
+- TensorFlow implementation (question 3-a): [Andrea Filiberto Lucas](mailto:andrea.f.lucas.22@um.edu.mt)
 - PyTorch implementation (questions 3-b): [Thomas Koppens](mailto:thomas.koppens.22@um.edu.mt)
-- OpenCV implementation (question 4): [Sean David Muscat](mailto:sean.muscat.22@um.edu.mt)]
+- OpenCV implementation (question 4): [Sean David Muscat](mailto:sean.muscat.22@um.edu.mt)
 
 
 ## Contact
