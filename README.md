@@ -2,21 +2,6 @@
 
 This project focuses on the use of data augmentation techniques with popular machine learning frameworks, including TensorFlow, PyTorch, and OpenCV. Data augmentation is an essential step in the preprocessing pipeline of machine learning models, particularly for image classification tasks, because it improves model generalization by artificially expanding the training dataset.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-  - [Question 3: Data Augmentation in Mainstream Machine Learning Frameworks](#question-3-data-augmentation-in-mainstream-machine-learning-frameworks)
-  - [Question 4: Implementing Data Augmentation Techniques Using OpenCV](#question-4-implementing-data-augmentation-techniques-using-opencv)
-- [Motivation](#motivation)
-- [Directory Structure](#directory-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Additional Resources](#additional-resources)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-
 ## Introduction
 
 ### Question 3: Data Augmentation in Mainstream Machine Learning Frameworks
@@ -29,53 +14,12 @@ In Question 4, we look at how to implement data augmentation techniques with Ope
 
 Data augmentation is an important technique in the field of machine learning, especially for image classification. It entails creating new training examples by applying various transformations to the original dataset, thereby increasing its size and variability without collecting additional data. This process improves the generalization capabilities of machine learning models, making them more resistant to variations in input data and less prone to overfitting.
 
-## Directory Structure
-
-| **Directory**                               | **Contents**                                           |
-|---------------------------------------------|--------------------------------------------------------|
-| **Question 3/**                             |                                                        |
-| ├── 0. COTS_Img/                            | Contains COTS images                                   |
-| ├── 1. TensorFlow/                          |                                                        |
-| │   ├── Q3-a.ipynb                          | Jupyter Notebook for TensorFlow                        |
-| │   ├── Q3-a.pdf                            | PDF of the TensorFlow notebook                         |
-| ├── 2. PyTorch/                             |                                                        |
-| │   ├── Q3-b.ipynb                          | Jupyter Notebook for PyTorch                           |
-| │   ├── Q3-b.pdf                            | PDF of the PyTorch notebook                            |
-| ├── 3. Results/                             |                                                        |
-| │   ├── PyTorch/                            | Results for PyTorch                                    |
-| │   │   ├── 0. Metrics/                     | Metrics for PyTorch results                            |
-| │   │   ├── boots_colour/                   | Augmented images for boots                             |
-| │   │   ├── digital_natives_book_colour/    | Augmented images for digital natives book              |
-| │   │   ├── dslr_colour/                    | Augmented images for DSLR                              |
-| │   │   ├── headphones_colour/              | Augmented images for headphones                        |
-| │   │   ├── volcano_colour/                 | Augmented images for volcano                           |
-| │   ├── TensorFlow/                         | Results for TensorFlow                                 |
-| │       ├── 0. Metrics/                     | Metrics for TensorFlow results                         |
-| │       ├── boots_colour/                   | Augmented images for boots                             |
-| │       ├── digital_natives_book_colour/    | Augmented images for digital natives book              |
-| │       ├── dslr_colour/                    | Augmented images for DSLR                              |
-| │       ├── headphones_colour/              | Augmented images for headphones                        |
-| │       ├── volcano_colour/                 | Augmented images for volcano                           |
-| **Question 4/**                             |                                                        |
-| ├── 0. COTS_Img/                            | Contains COTS images                                   |
-| ├── 1. JupyterNotebook & PDF/               |                                                        |
-| │   ├── Q4.ipynb                            | Jupyter Notebook for OpenCV                            |
-| │   ├── Q4.pdf                              | PDF of the OpenCV notebook                             |
-| ├── 2. Results/                             |                                                        |
-| │   ├── Brightness/                         | Augmented images with brightness adjustment            |
-| │   ├── Contrast/                           | Augmented images with contrast adjustment              |
-| │   ├── Rotation/                           | Augmented images with rotation                         |
-| │   ├── Saturation/                         | Augmented images with saturation adjustment            |
-| │   ├── Shearing/                           | Augmented images with shearing                         |
-| │   ├── Translation/                        | Augmented images with translation                      |
-
-
 ## Getting Started
 
 ### Prerequisites
 
 - Python 3.x
-- Python libraries: `os`, `cv2`, `matplotlib`, `numpy`, `ImageDataGenerator`, `Image from PIL`, `shutil`, `re`, `pandas` & `seaborn` [TO ADD THOMAS STUFF]
+- Python libraries: `os`, `cv2`, `matplotlib`, `numpy`, `ImageDataGenerator`, `Image from PIL`, `shutil`, `re`, `pandas` & `seaborn` [TO ADD THOMAS]
 - Important libraries (auto-install): `tensorflow` & `structural_similarity from skimage.metrics`
 
 ### Installation
@@ -115,6 +59,13 @@ Clone the repository:
 ## Acknowledgments
 
 This project was developed as part of an academic assignment. Unit: `ARI2129` at the `University of Malta`.
+
+## Distribution of Work
+
+- TensorFlow implementation (question 3-a): [Andrea Filiberto Lucas](mailto:andrea.f.lucas.22@um.edu.mt)]
+- PyTorch implementation (questions 3-b): [Thomas Koppens](mailto:thomas.koppens.22@um.edu.mt)
+- OpenCV implementation (question 4): [Sean David Muscat](mailto:sean.muscat.22@um.edu.mt)]
+
 
 ## Contact
 
