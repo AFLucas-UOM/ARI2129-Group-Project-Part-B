@@ -19,8 +19,8 @@ Data augmentation is an important technique in the field of machine learning, es
 ### Prerequisites
 
 - Python 3.x
-- Python libraries: `os`, `cv2`, `matplotlib`, `numpy`, `ImageDataGenerator`, `Image from PIL`, `shutil`, `re`, `pandas` & `seaborn` [TO ADD THOMAS]
-- Important libraries (auto-install): `tensorflow` & `structural_similarity from skimage.metrics`
+- Python libraries: `os`, `shutil`, `cv2`, `matplotlib`, `numpy`, `ImageDataGenerator`, `Image from PIL`, `shutil`, `re`, `pandas`, `seaborn`, `SSIM`, `read_image` & `write_jpeg`
+- Important libraries (auto-install): `tensorflow`, `structural_similarity from skimage.metrics`, `torch` & `pytorch-ignite`
 
 ### Installation
 
