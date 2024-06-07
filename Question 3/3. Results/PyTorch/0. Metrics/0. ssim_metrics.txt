@@ -1,0 +1,44 @@
+boots_colour_augmented_1.jpeg: SSIM = 0.8279
+boots_colour_augmented_2.jpeg: SSIM = 0.7205
+boots_colour_augmented_3.jpeg: SSIM = 0.7703
+boots_colour_augmented_4.jpeg: SSIM = 0.7581
+boots_colour_augmented_5.jpeg: SSIM = 0.7519
+boots_colour_augmented_6.jpeg: SSIM = 0.7809
+boots_colour_augmented_7.jpeg: SSIM = 0.7360
+boots_colour_augmented_8.jpeg: SSIM = 0.6497
+
+digital_natives_book_colour_augmented_1.jpeg: SSIM = 0.8284
+digital_natives_book_colour_augmented_2.jpeg: SSIM = 0.7723
+digital_natives_book_colour_augmented_3.jpeg: SSIM = 0.8431
+digital_natives_book_colour_augmented_4.jpeg: SSIM = 0.7900
+digital_natives_book_colour_augmented_5.jpeg: SSIM = 0.8134
+digital_natives_book_colour_augmented_6.jpeg: SSIM = 0.8216
+digital_natives_book_colour_augmented_7.jpeg: SSIM = 0.8183
+digital_natives_book_colour_augmented_8.jpeg: SSIM = 0.7808
+
+dslr_colour_augmented_1.jpeg: SSIM = 0.7910
+dslr_colour_augmented_2.jpeg: SSIM = 0.7727
+dslr_colour_augmented_3.jpeg: SSIM = 0.7390
+dslr_colour_augmented_4.jpeg: SSIM = 0.7061
+dslr_colour_augmented_5.jpeg: SSIM = 0.7865
+dslr_colour_augmented_6.jpeg: SSIM = 0.8396
+dslr_colour_augmented_7.jpeg: SSIM = 0.6601
+dslr_colour_augmented_8.jpeg: SSIM = 0.7852
+
+headphones_colour_augmented_1.jpeg: SSIM = 0.6500
+headphones_colour_augmented_2.jpeg: SSIM = 0.7620
+headphones_colour_augmented_3.jpeg: SSIM = 0.8391
+headphones_colour_augmented_4.jpeg: SSIM = 0.8155
+headphones_colour_augmented_5.jpeg: SSIM = 0.8186
+headphones_colour_augmented_6.jpeg: SSIM = 0.7930
+headphones_colour_augmented_7.jpeg: SSIM = 0.7780
+headphones_colour_augmented_8.jpeg: SSIM = 0.8473
+
+volcano_colour_augmented_1.jpeg: SSIM = 0.6510
+volcano_colour_augmented_2.jpeg: SSIM = 0.7106
+volcano_colour_augmented_3.jpeg: SSIM = 0.6345
+volcano_colour_augmented_4.jpeg: SSIM = 0.6109
+volcano_colour_augmented_5.jpeg: SSIM = 0.6324
+volcano_colour_augmented_6.jpeg: SSIM = 0.6957
+volcano_colour_augmented_7.jpeg: SSIM = 0.6626
+volcano_colour_augmented_8.jpeg: SSIM = 0.6458
